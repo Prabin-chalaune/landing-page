@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
   return (
     <footer className={cx("footer")}>
       <p className={cx("footer__text")}>
-        &copy; {new Date().getFullYear()} Khima. All rights reserved.
+        &copy; {new Date().getFullYear()} ABCD. All rights reserved.
       </p>
     </footer>
   );
